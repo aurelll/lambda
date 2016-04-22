@@ -16,3 +16,9 @@ Une carte SD (Préférence pour 16 giga)
 Une connexion internet
 
 L' image d' instalation pour votre Rpi ce trouvant ici :
+
+
+
+#Installation 
+
+https://github.com/aurelll/lambda/wiki
