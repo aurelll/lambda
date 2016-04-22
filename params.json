@@ -1,0 +1,6 @@
+{
+  "name": "Lambda",
+  "tagline": "",
+  "body": "# L.A.M.B.D.A\r\n\r\nL Apps Mobile Box Domotic Automation\r\n\r\nL.A.M.B.D.A est un Raspberrypi socialement connecté, personnel et sécurisé pour l' installation d'application telle qu'un Bureau, serveur ssh, serveur web, serveur de jeux, skype, Firefox, chrome, centraliser les données et les partager simplement avec ceux que vous aimez. Vous pourrez lancer des applications tournant sous Android, Mac, ou encore Linux (Windows consomme énormément donc à voir),installer, stoper, mettre en pause et desinstaller chaque application via un simple clique, pour pouvoir economiser de la RAM, Bande passante, espace disque.\r\nVous pourrez aussi gérer tout votre systéme domotic. Lumiere, volet, radiateur... Tout pourra étre controlé via la parole.\r\n\r\nLa seule chose pouvant nous stoper dans ce projet sont, la ressource que peut offrir un raspberry pi et nos idées.\r\n\r\n# Pré-requis\r\n\r\nUn Rapberry pi\r\n\r\nUne carte SD (Préférence pour 16 giga)\r\n\r\nUne connexion internet\r\n\r\nL' image d' instalation pour votre Rpi ce trouvant ici :\r\n\r\n\r\n\r\n#Installation \r\n\r\nhttps://github.com/aurelll/lambda/wiki\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
