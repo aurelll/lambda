@@ -1,9 +1,9 @@
-# lambda
+# L.A.M.B.D.A
 
-L.A.M.B.D.A
-Box Domotic Automation
+L Apps Mobile Box Domotic Automation
 
-LAMBDA est un Raspberrypi socialement connecté, personnel et sécurisé pour l' installation d'application telle qu'un Bureau, serveur ssh, serveur web, serveur de jeux, skype, Firefox, chrome, centraliser les données et les partager simplement avec ceux que vous aimez. Vous pourrez lancer des applications tournant sous Android, Mac, ou encore Linux (Windows consomme énormément donc à voir),installer, stoper, mettre en pause et desinstaller chaque application via un simple clique, pour pouvoir economiser de la RAM, Bande passante, espace disque.
+L.A.M.B.D.A est un Raspberrypi socialement connecté, personnel et sécurisé pour l' installation d'application telle qu'un Bureau, serveur ssh, serveur web, serveur de jeux, skype, Firefox, chrome, centraliser les données et les partager simplement avec ceux que vous aimez. Vous pourrez lancer des applications tournant sous Android, Mac, ou encore Linux (Windows consomme énormément donc à voir),installer, stoper, mettre en pause et desinstaller chaque application via un simple clique, pour pouvoir economiser de la RAM, Bande passante, espace disque.
+Vous pourrez aussi gérer tout votre systéme domotic. Lumiere, volet, radiateur... Tout pourra étre controlé via la voie.
 
 La seule chose pouvant nous stoper dans ce projet sont, la ressource que peut offrir un raspberry pi et nos idées.
 
